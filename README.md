@@ -1,4 +1,4 @@
-Visualización Interactiva del Modelo 3D de un Carro 
+MODELO 3D "CARRO"
 
 Cuando el proyecto se ejecuta, la cámara del dispositivo se activa y comienza a buscar un marcador especial llamado Hiro. Este marcador es como una señal visual que el sistema reconoce.
 
@@ -16,4 +16,4 @@ FUNCIONAMIENTO
   -Aumentar o reducir su tamaño.
   -Mostrar u ocultar el modelo cuando quiera.
 
-4.- Pruebas y funcionamiento: Se hicieron pruebas para asegurar que todas estas funciones respondan correctamente y que la experiencia sea fluida, sin retrasos o fallos.
+4.- Pruebas y funcionamiento: Se hacen pruebas para asegurar que todas estas funciones respondan correctamente y que la experiencia sea fluida, sin retrasos o fallos.
