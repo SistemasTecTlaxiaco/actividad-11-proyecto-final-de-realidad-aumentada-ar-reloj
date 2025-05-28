@@ -10,7 +10,7 @@ https://little-mesquite-rake.glitch.me
 ![Imagen de WhatsApp 2025-05-28 a las 14 00 54_df484107](https://github.com/user-attachments/assets/6e1a5095-586b-4ca0-a67d-772ac6e7efbd)
 
 ------------------------------------------------
-*FUNCIONAMIENTO*
+---FUNCIONAMIENTO---
 
 1.- Detección del marcador: La cámara analiza lo que ve en tiempo real y cuando identifica el marcador Hiro, sabe dónde colocar el modelo 3D.
 
