@@ -3,7 +3,7 @@ MODELO 3D "CARRO"
 Cuando el proyecto se ejecuta, la cámara del dispositivo se activa y comienza a buscar un marcador especial llamado Hiro. Este marcador es como una señal visual que el sistema reconoce.
 
 Cuando el sistema detecta este marcador, lo “agarra” como una referencia fija en el espacio. Entonces, el modelo 3D del carro se proyecta directamente sobre el marcador, como si el marcador fuera una base o plataforma invisible donde aparece el objeto. Esto permite que el modelo se mantenga alineado y visible justo encima del marcador, incluso si mueves la cámara o el marcador.
-
+------------------------------------------------------------------
 LINK PARA ACCEDER
 https://little-mesquite-rake.glitch.me
 
