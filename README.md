@@ -4,6 +4,9 @@ Cuando el proyecto se ejecuta, la cámara del dispositivo se activa y comienza a
 
 Cuando el sistema detecta este marcador, lo “agarra” como una referencia fija en el espacio. Entonces, el modelo 3D del carro se proyecta directamente sobre el marcador, como si el marcador fuera una base o plataforma invisible donde aparece el objeto. Esto permite que el modelo se mantenga alineado y visible justo encima del marcador, incluso si mueves la cámara o el marcador.
 
+LINK PARA ACCEDER
+https://little-mesquite-rake.glitch.me
+
 ![Imagen de WhatsApp 2025-05-28 a las 14 00 54_df484107](https://github.com/user-attachments/assets/6e1a5095-586b-4ca0-a67d-772ac6e7efbd)
 
 FUNCIONAMIENTO
